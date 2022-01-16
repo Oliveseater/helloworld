@@ -12,6 +12,7 @@ namespace hello
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("I really fucked up");
+            Console.WriteLine("Some new");
             Console.ReadKey();
         }
     }
